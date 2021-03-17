@@ -56,7 +56,7 @@ export default {
     height: 800px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     box-shadow: inset 0 0 0 2000px rgb(17 17 17 / 30%);
     color: #fff;
   }

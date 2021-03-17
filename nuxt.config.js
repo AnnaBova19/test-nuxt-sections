@@ -1,5 +1,6 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
     title: 'M2 Wunschauto - für einen reibungslosen Autokauf- und verkauf',
     htmlAttrs: {
